@@ -11,28 +11,19 @@
 
 ---
 
-### 🤖 Generative AI & Automation
-> "I don't just write code; I design intelligent systems that evolve."
-
-* **LLM Integration:** Expert in LangChain, CrewAI, and OpenAI/Gemini API orchestration.
-* **Prompt Engineering:** Advanced techniques for few-shot learning and agentic workflows.
-* **AI Workflow:** 10x productivity using **Cursor**, **GitHub Copilot**, and **v0.dev**.
-
----
-
 ### 🛠️ Professional Tech Stack
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>🏗️ Backend & AI</h4>
-      <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,mysql,sqlite,mongodb" /><br/>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,aws,gcp" />
+      <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" /><br/>
+      <img src="https://skillicons.dev/icons?i=aws" />
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Frontend & Design</h4>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" /><br/>
-      <img src="https://skillicons.dev/icons?i=canva,figma,ps" />
+      <img src="https://skillicons.dev/icons?i=js,html,css" /><br/>
+      <img src="https://skillicons.dev/icons?i=canva,figma" />
     </td>
   </tr>
 </table>
@@ -41,13 +32,17 @@
 
 ### 📊 Engineering Metrics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Jyoti-ctr&show_icons=true&theme=radical&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-ctr&layout=compact&theme=radical&hide_border=false" width="48%" />
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-ctr&show_icons=true&theme=radical&hide_border=false" width="48%" alt="Jyoti's GitHub Stats" />
+  </a>
+  <a href="https://github.com">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-ctr&layout=compact&theme=radical&hide_border=false" width="48%" alt="Jyoti's Top Languages" />
+  </a>
 </p>
 
-<p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti-ctr&theme=radical&hide_border=false" width="100%" />
-</p>
+</p> 
 
 ---
 
@@ -58,8 +53,4 @@ I also run **Ibis Art World**, where I explore the intersection of digital art a
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
-</p>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Jyoti-ctr&color=blueviolet&style=flat-square" alt="Visit Count" />
 </p>
