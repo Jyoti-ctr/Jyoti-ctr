@@ -33,7 +33,7 @@
 ### 📊 Engineering Metrics
 <p align="center">
   <a href="https://github.com">
-    <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-ctr&show_icons=true&theme=radical&hide_border=false" width="48%" alt="Jyoti's GitHub Stats" />
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=Jyoti-ctr&show_icons=true&theme=radical&hide_border=false" width="48%" alt="Jyoti's GitHub Stats" /> -->
   </a>
   <a href="https://github.com">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-ctr&layout=compact&theme=radical&hide_border=false" width="48%" alt="Jyoti's Top Languages" />
