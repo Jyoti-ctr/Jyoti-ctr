@@ -18,12 +18,10 @@
     <td width="50%" valign="top">
       <h4>🏗️ Backend & AI</h4>
       <img src="https://skillicons.dev/icons?i=python,mysql,mongodb" /><br/>
-      <img src="https://skillicons.dev/icons?i=aws" />
     </td>
     <td width="50%" valign="top">
       <h4>🎨 Frontend & Design</h4>
       <img src="https://skillicons.dev/icons?i=js,html,css" /><br/>
-      <img src="https://skillicons.dev/icons?i=canva,figma" />
     </td>
   </tr>
 </table>
